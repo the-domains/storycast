@@ -1,0 +1,14 @@
+layout_spectrum: 0.9468339
+color:
+  saturation: 0.9349604
+  lightness: 0.8034647
+  brandStrength: 1
+  brandColors:
+    - '#010101'
+    - '#1C3146'
+    - '#7A8C9A'
+    - '#F3BE9C'
+    - '#DEFCFE'
+  rhythmicContrast: 0.7086867
+typography_spectrum: 0.09976105
+name: Storycast
