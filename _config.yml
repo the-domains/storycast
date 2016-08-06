@@ -1,4 +1,4 @@
-layout_spectrum: 0.9468339
+typography_spectrum: 0.09976105
 color:
   saturation: 0.9349604
   lightness: 0.8034647
@@ -10,6 +10,7 @@ color:
     - '#F3BE9C'
     - '#DEFCFE'
   rhythmicContrast: 0.7086867
-typography_spectrum: 0.09976105
+layout_spectrum: 0.9468339
 name: Storycast
 title: STORYCAST
+description: Branded Storytelling
