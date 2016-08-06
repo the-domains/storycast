@@ -1,16 +1,16 @@
-typography_spectrum: 0.09976105
+typography_spectrum: 0.298461995087564
 color:
-  saturation: 0.9349604
-  lightness: 0.8034647
-  brandStrength: 1
+  saturation: 0.14150113239884377
+  lightness: 0.693693651817739
+  brandStrength: 0.3436391782015562
   brandColors:
-    - '#010101'
-    - '#1C3146'
-    - '#7A8C9A'
-    - '#F3BE9C'
-    - '#DEFCFE'
-  rhythmicContrast: 0.7086867
-layout_spectrum: 0.9468339
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  rhythmicContrast: 0.34120825328864157
+layout_spectrum: 0.27378481440246105
 name: Storycast
 title: STORYCAST
 description: Branded Storytelling
