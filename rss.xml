@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[STORYCAST]]></title>
+        <description><![CDATA[STORYCAST]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Aug 2016 02:39:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[H2M Weekly Rewind 001]]></title>
+            <description><![CDATA[<article><h1>H2M Weekly Rewind 001</h1><p>Birthdays, dogs, 702 Communications talks TEDxFargo and we visit VidCon 2016. Production music courtesy of http://www.epidemicsound.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a088a0d46bfec70c89d77b03fb48ca8a/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FS7-OFnJ3xIA%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/S7-OFnJ3xIA</link>
+            <guid isPermaLink="false">61ff85da-1f35-42d5-9962-2ffca54dbf58</guid>
+            <pubDate>Mon, 08 Aug 2016 02:39:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
